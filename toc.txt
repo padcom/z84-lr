@@ -16,8 +16,8 @@
 16. Dziewiczy lot pod kontrolą wzroku (line of sight)
 17. System FPV: gogle, anteny, wzmocnienie sygnału, zależność widoczności od wysokości
 18. Tuning kontrolera lotu
-19. Montaż systemu obracania kamerą
-20. Wybór miejsca do wykonania lotu na 20km
-21. Testy wydajnościowe, ustalenie maksymalnej długości lotu
-22. Testy odległościowe, ustalenie maksymalnej odległości lotu na wysokości 120m
-23. Lot 20km
+19. Wybór miejsca do wykonania lotu na 20km
+20. Testy wydajnościowe, ustalenie maksymalnej długości lotu
+21. Testy odległościowe, ustalenie maksymalnej odległości lotu na wysokości 120m
+22. Lot 20km
+23. Montaż systemu obracania kamerą
