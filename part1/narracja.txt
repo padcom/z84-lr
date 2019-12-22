@@ -9,21 +9,23 @@ Ogromną zaletą tak niskiej częstotliwości jest jej przenikalność przez ró
 Nie bez powodu systemy nadawcze takie jak EzUHF czy DragonLink używają właśnie tej częstotliwości do komunikacji pomiędzy aparaturą a modelem.
 Niestety OpenLRS, chociaż na prawde budżetowy, jest bardzo trudnym systemem w obsłudze.
 Wymaga znajomości środowiska Arduino (każdy nadajnik/odbiornik jest tak na prawdę Arduino) co nie jest chlebem powszednim dla większości.
-Przez cały 2018 rok testowałem różne systemy kontroli modeli na daleki zasięg i jedynym, który nie zawiódł mnie na na prawdę niskiej mocy (10mW) okazał się system Crossfire.
+Przez cały 2018 rok testowałem różne systemy kontroli modeli na daleki zasięg i jedynym, który nie zawiódł mnie przy na prawdę niskiej mocy (10mW) okazał się system Crossfire.
 Dlatego też zdecydowałem się zainwestować w nadajnik i odbiorniki ze stajni Team Black Sheep i ta seria tutoriali będzie zakładała, że właśnie takiego systemu użyjesz.
+W odróżnieniu od systemów EzUHF czy DragonLink używa częstotliwości 868MHz (legalnej w naszym kraju) a co za tym idzie ma też o połowę mniejsze anteny niż systemy działające na 434MHz.
 TBS Crossfire nie należy do tanich.
 Nadajnik zakupiony u chińczyka na Aliexpress będzie Cię kosztował około 280zł a odbiornik to cena rzędu 150-200zł.
 Do tego dochodzi cena za anteny, które są absolutnie kluczowymi elementami przy konstrukcji maszyn kontrolowalnych na duże odległości.
+
 Skoro o kontroli mowa należy wybrać również aparaturę, za pomocą której będziemy kontrolować nasz statek powietrzny.
 Dzisiaj na rynku mamy kilka możliwości takich jak FrSky Taranis 9XD czy Jumper T16.
 Nic innego nie polecam dlatego, że jest to inwestycja jednorazowa i warto zapłacić raz i mieć spokój przez resztę zabawy w modelarstwo.
-Obie aparatury kompletnie bezproblemowo współpracują z modułem nadawczym Crossfire i pozwalają w pełni cieszyć się kontrolą modelu na bardzo dużych odległościach.
+Obie aparatury kompletnie bezproblemowo współpracują z modułem nadawczym TBS Crossfire i pozwalają w pełni cieszyć się kontrolą modelu na bardzo dużych odległościach.
 Drugim nieodzownym elementem systemu dalekiego zasięgu jest link wideo, który daje nam możliwość patrzenia z perspektywy modelu.
 Należy w tym momencie jasno i wyraźnie powiedzieć sobie, że przy odległości 20km żaden system cyfrowy nie ma szans powodzenia więc skazani jesteśmy na transmisję analogową.
 Co za tym idzie będziemy skazani na szumy, chwilowe utraty obrazu i inne widoczne zakłócenia do których po prostu należy się przyzwyczaić.
 Chwilowa utrata widoczności jest czymś z czym należy nauczyć się żyć pomimo tego, że pierwsze przeżycie takiej sytuacji potrafi przyprawić o zawał serca.
 Skoro już o mowa o transmisji to należy wspomnieć o antenach i dlaczego są one takie ważne w przypadku lotów na daleki zasięg.
-Od razu zaznaczę, że wszystko o czym tutaj będziemy mówić jest nielegalne w świetle Polskiegi i Europejskiego prawa.
+Od razu zaznaczę, że wszystko o czym tutaj będziemy mówić jest nielegalne w świetle polskiego i europejskiego prawa.
 Nasz model będzie ważył powyżej 250 gramów i będzie wysyłał sygnał o mocy znacznie przekraczającej dozwolone 100mW ERP.
 ERP to moc wysyłana w dowolnym kierunku zakładając równomierny rozkład fal we wszystkich kierunkach.
 Oznacza to, że jeśli w jakiś sposób skupilibyśmy wiązkę promieniowania w jednym kierunku to maksymalna moc musi ulec zmniejszeniu.
@@ -39,8 +41,6 @@ Zanim zakończymy ten przydługi wstęp chciałbym, żebyście pamiętali o jedn
 Bezpieczeństwo ponad wszystko.
 Niezależnie od tego jakiego systemu użyjecie do nadawania sygnału kontrolnego czy nadawania i odbioru wideo z samolotu główną cechą jaką powinniście się kierować jest bezpieczeństwo.
 Jest to jednym z głównych powodów dla którego jako platformę wybrałem Z84 ponieważ jest to mały i lekki samolot, który w kontakcie z dorosłą osobą przy prędkości 40km/h nie jest śmiercionośny.
-Samoloty o wadze dwóch lub trzech kg z reguły porusza się znacznie szybciej a co za tym idzie stanowi znacznie większe zagrożenie dla życia i zdrowia innych.
+Samoloty o wadze dwóch lub trzech kilogramów z reguły porusza się znacznie szybciej a co za tym idzie stanowi znacznie większe zagrożenie dla życia i zdrowia innych.
 
 W następnym odcinku przejdziemy sobie przez listę rzeczy, które trzba będzie mieć, żeby przejść przez ten tutorial i na końcu cieszyć się tymi samymi osiągami, którymi ja cieszę się od roku.
-
-
