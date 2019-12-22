@@ -1,0 +1,23 @@
+1. Wprowadzenie
+2. Lista zakupów
+3. Odchudzanie i wzmacnianie zetki
+4. Montaż silnika
+5. Modyfikacja kadłuba i montaż kamery
+6. Modyfikacja skrzydła w celu montażu odbiornika oraz anteny
+7. Modyfikacja nadajnika wideo w celu zmiejszenia wagi systemu nadawania wideo
+8. Modyfikacja drugiego skrzydła w celu montarzu nadajnika wideo
+9. Montaż serwomechanizmów
+10. Sklejanie modelu
+11. Wstępna konfiguracja kontrolera lotu Matek F405 WING
+12. Wstępna konfiguracja kontrolera lotu Matek F411 WING
+13. Montaż kontrolera lotu z regulatorem obrotów i odbiornikiem GPS
+14. Przygotowanie pakietu Li-ion 4S z ogniw Sanyo GA 18650 3450mAh 10A
+15. Wyważanie modelu
+16. Dziewiczy lot pod kontrolą wzroku (line of sight)
+17. System FPV: gogle, anteny, wzmocnienie sygnału, zależność widoczności od wysokości
+18. Tuning kontrolera lotu
+19. Montaż systemu obracania kamerą
+20. Wybór miejsca do wykonania lotu na 20km
+21. Testy wydajnościowe, ustalenie maksymalnej długości lotu
+22. Testy odległościowe, ustalenie maksymalnej odległości lotu na wysokości 120m
+23. Lot 20km
