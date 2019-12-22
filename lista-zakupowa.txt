@@ -29,7 +29,7 @@ https://www.banggood.com/DYS-XSC-20A-3-4S-ESC-BLHeli_S-Supports-Oneshot125-Onesh
 
 https://www.banggood.com/10X-2mm-Gold-Bullet-Banana-Connector-Plug-For-ESC-Battery-Motor-p-946666.html
 
-8. Serwomechanizmy
+8. Serwomechanizmy do obsługi sterolotek
 
 - Orginalny fejk TowerPro MG90S :)
 
@@ -47,15 +47,19 @@ https://www.banggood.com/Eachine-TX801-5_8G-72CH-0_01MW5MW25MW50MW100MW200MW400M
 
 https://pl.aliexpress.com/item/32666707643.html
 
-11. Antena nadawczo/odbiorcza Aomway 5.8GHz FPV 4 Leaf Clover AV Transmission RHCP
+11. Serwomechanizm Henge MD260 180-260 degrees Metal Digital Servo
+
+https://www.aliexpress.com/item/723355973.html
+
+12. Antena nadawczo/odbiorcza Aomway 5.8GHz FPV 4 Leaf Clover AV Transmission RHCP
 
 https://www.banggood.com/Aomway-5_8GHz-FPV-4-Leaf-Clover-AV-Transmission-RHCP-Antenna-1-Pair-p-961730.html
 
-12. Antena odbiorcza Aomway 5.8G 13dbi Diamond Directional Antenna
+13. Antena odbiorcza Aomway 5.8G 13dbi Diamond Directional Antenna
 
 https://www.banggood.com/Aomway-5_8G-13db-Diamond-Directional-Antenna-SMA-RP-SMA-For-Receiver-p-1075413.html
 
-13. Gogle
+14. Gogle
 
 - wersja budżetowa: Eachine EV800 lub EV800D
 
@@ -67,7 +71,7 @@ https://www.banggood.com/Eachine-EV800D-5_8G-40CH-Diversity-FPV-Goggles-5-Inch-8
 https://www.banggood.com/FatShark-Dominator-HDO-2-1280x960-OLED-Display-46-Degree-Field-of-View-43169-FPV-Goggles-Video-Headset-for-RC-Drone-p-1591612.html
 https://www.banggood.com/ImmersionRC-RapidFIRE-w-Analog-PLUS-Goggle-Receiver-Module-p-1267497.html
 
-14. Kontroler lotu
+15. Kontroler lotu
 
 - Matek F411 Wing
 
@@ -81,7 +85,7 @@ https://www.banggood.com/Matek-Systems-F411-WSE-STM32F411CEU6-Flight-Controller-
 
 https://www.banggood.com/Matek-Systems-F405-WING-New-STM32F405-Flight-Controller-Built-in-OSD-for-RC-Drone-p-1292190.html
 
-15. Moduł GPS
+16. Moduł GPS
 
 - Beitian Dual BN-220 GPS GLONASS Antenna Module TTL Level
 
@@ -91,7 +95,7 @@ https://www.banggood.com/Beitian-Dual-BN-220-GPS-GLONASS-Antenna-Module-TTL-Leve
 
 https://www.banggood.com/UBLOX-NEO-M8N-BN-880-Flight-Control-GPS-Module-Dual-Module-Compass-p-971082.html
 
-16. Zestaw dystansów nylonowych 2mm lub 3mm (w zależności od kontrolera lotu)
+17. Zestaw dystansów nylonowych 2mm lub 3mm (w zależności od kontrolera lotu)
 
 - M2 (do kontrolerów F411 WING/WSE)
 
@@ -101,7 +105,7 @@ https://www.banggood.com/Suleve-M2NH4-M2-Nylon-Screw-Black-Hex-Screw-Nut-Nylon-P
 
 https://www.banggood.com/Suleve-M3NH1-M3-Nylon-Screw-Black-Hex-Screw-Nut-Nylon-PCB-Standoff-Assortment-Kit-300pcs-p-984310.html
 
-17. Aparatura (wymagane wsparcie dla OpenTX 2.3)
+18. Aparatura (wymagane wsparcie dla OpenTX 2.3)
 
 - Jumper T16
 
@@ -115,7 +119,7 @@ https://www.banggood.com/FrSky-Taranis-X9D-Plus-2019-2_4G-24CH-ACCESS-ACCST-D16-
 
 https://www.banggood.com/FrSky-Taranis-X9D-Plus-SE-2019-24CH-ACCESS-ACCST-D16-Mode2-Transmitter-M9-Hall-Sensor-Gimbal-PARA-Wireless-Training-Function-for-RC-Drone-p-1537807.html
 
-18. Nadajnik TBS Crossfire
+19. Nadajnik TBS Crossfire
 
 - wersja micro
 
@@ -125,7 +129,7 @@ https://www.team-blacksheep.com/products/prod:crossfire_micro_tx
 
 https://www.team-blacksheep.com/products/prod:crossfire_tx
 
-19. Antena nadawcza
+20. Antena nadawcza
 
 - TBS DIAMOND ANTENNA
 
@@ -135,7 +139,7 @@ https://www.team-blacksheep.com/products/prod:diamond_antenna
 
 https://allegro.pl/oferta/antena-pro-moxon-868-mhz-5-5dbi-tx-rp-sma-prodrone-8102004408?fromVariant=8102004644
 
-20. Odbiornik TBS Crossfire
+21. Odbiornik TBS Crossfire
 
 - nano
 
@@ -145,19 +149,19 @@ https://www.team-blacksheep.com/products/prod:crossfire_nano_rx
 
 https://www.team-blacksheep.com/products/prod:crossfire_mrx
 
-21. Antena odbiornika MicroVEE
+22. Antena odbiornika MicroVEE
 
 https://www.team-blacksheep.com/products/prod:microvee_868
 
-22. Ogniwa Sanyo GA 18650 (potrzeba minimum 4 sztuki, najlepiej 8, żeby mieć 2 pakiety)
+23. Ogniwa Sanyo GA 18650 (potrzeba minimum 4 sztuki, najlepiej 8, żeby mieć 2 pakiety)
 
 https://www.banggood.com/2pcs-Sanyo-NCR18650GA-3_6V-3500mAh-10A-Rechargeable-Lithium-Battery-p-1216666.html
 
-23. Kwas lutowniczy
+24. Kwas lutowniczy
 
 https://allegro.pl/oferta/kwas-lutowniczy-ag-chemia-do-lutowania-6371166761
 
-24. Złącze balancera
+25. Złącze balancera
 
 - wersja DIY
 
@@ -167,31 +171,31 @@ https://www.banggood.com/40-Set-JST-2_5mm-XH-2P-3P-4Pin-Header-Male-Female-Pitch
 
 https://www.banggood.com/Lipo-Battery-Charger-Silicone-Wire-Balance-Extension-Cable-2S-3Pin-3S-4Pin-4S-5Pin-8S-9Pin-2_54XH-30cm-p-1022456.html
 
-25. Konektor baterii
+26. Konektor baterii
 
 https://www.banggood.com/10-Pair-URUAV-XT60-Male-Female-Bullet-Connectors-Power-Plugs-with-Heat-Shrink-Tube-for-Lipo-Battery-p-1396830.html
 
-26. Przewody silikonowe (czarny+czerwony AWG22, AWG20, AWG18 i AWG16)
+27. Przewody silikonowe (czarny+czerwony AWG22, AWG20, AWG18 i AWG16)
 
 https://www.banggood.com/1M-8101214161820222426-AWG-Silicone-Wire-SR-Wire-p-921159.html
 
-27. Przewód 3 żyłowy do serwomechanizmów (BRW 26AWG)
+28. Przewód 3 żyłowy do serwomechanizmów (BRW 26AWG)
 
 https://pl.aliexpress.com/item/32857829699.html
 
-28. Konektory do elektroniki (będą potrzebne 1, 2, 3 i 4 polowe wtyczki)
+29. Konektory do elektroniki (będą potrzebne 1, 2, 3 i 4 polowe wtyczki)
 
 https://www.banggood.com/345-Pcs-Wire-Jumper-Pin-Header-Connectors-Housing-Female-Kit-And-MF-Crimp-Pins-p-1162695.html
 
-29. Zaciskarka do konektorów (opcjonalnie)
+30. Zaciskarka do konektorów (opcjonalnie)
 
 https://pl.aliexpress.com/item/32922587154.html
 
-30. Zestaw koszulek termokurczliwych
+31. Zestaw koszulek termokurczliwych
 
 https://www.banggood.com/270Pcs-Heat-Shrink-Wire-Tube-Cable-Tubing-Dual-Wall-Adhesive-Lined-Ratio-31-Set-p-1334686.html
 
-31. Ładowarka do akumulatorów Li-ion
+32. Ładowarka do akumulatorów Li-ion
 
 - wersja budżetowa
 
@@ -201,29 +205,29 @@ https://www.banggood.com/IMAX-B6-80W-6A-Lipo-Battery-Balance-Charger-with-Power-
 
 https://www.banggood.com/ISDT-Q6-Pro-BattGo-300W-14A-Pocket-Lipo-Battery-Balance-Charger-With-LANTIAN-400W-Power-Supply-Adapter-p-1497296.html
 
-32. Przewód skrętka CAT5 6 żył
-33. Lutownica
-34. Szczypce płaskie
-35. Szczypce płaskie zagięte
-36. Obcinaczki
-37. Śrubokręt krzyżakowy mały
-38. Śrubokręt inbusowy 1.5mm
-39. Trzecia ręka
+33. Przewód skrętka CAT5 6 żył
+34. Lutownica
+35. Szczypce płaskie
+36. Szczypce płaskie zagięte
+37. Obcinaczki
+38. Śrubokręt krzyżakowy mały
+39. Śrubokręt inbusowy 1.5mm
+40. Trzecia ręka
 
 https://www.ceneo.pl/;szukaj-trzecia+r%C4%99ka
 
-40. Taśma izolacyjna (dowolny kolor)
+41. Taśma izolacyjna (dowolny kolor)
 
 https://www.leroymerlin.pl/elektrycznosc/narzedzia-elektroinstalacyjne/tasmy-i-koszulki-izolacyjne/tasma-izolacyjna-25-mm-x-10-m-czarna-f625122-lexman,p158020,l1498.html
 
-41. Kalafonia lutownicza
-42. Cyna do lutowania
-43. Skalpel
-44. Rzep samoprzylepny 20mm
+42. Kalafonia lutownicza
+43. Cyna do lutowania
+44. Skalpel
+45. Rzep samoprzylepny 20mm
 
 https://pasmanteria.net/tamy-rzep/651-tasma-rzep-z-klejem-20mm-czarny.html
 
-45. Rrzep dwustronny
+46. Rrzep dwustronny
 
 https://pasmanteria.net/tamy-rzep/4721-rzep-tasma-dwustronna-czarna.html
 
