@@ -13,7 +13,7 @@ Przez cały 2018 rok testowałem różne systemy kontroli modeli na daleki zasi�
 Dlatego też zdecydowałem się zainwestować w nadajnik i odbiorniki ze stajni Team Black Sheep i ta seria tutoriali będzie zakładała, że właśnie takiego systemu użyjesz.
 W odróżnieniu od systemów EzUHF czy DragonLink używa częstotliwości 868MHz (legalnej w naszym kraju) a co za tym idzie ma też o połowę mniejsze anteny niż systemy działające na 434MHz.
 TBS Crossfire nie należy do tanich.
-Nadajnik zakupiony u chińczyka na Aliexpress będzie Cię kosztował około 280zł a odbiornik to cena rzędu 150-200zł.
+Nadajnik zakupiony u chińczyka na Aliexpress będzie Cię kosztował około 290zł a odbiornik to cena rzędu 130-150zł.
 Do tego dochodzi cena za anteny, które są absolutnie kluczowymi elementami przy konstrukcji maszyn kontrolowalnych na duże odległości.
 
 Skoro o kontroli mowa należy wybrać również aparaturę, za pomocą której będziemy kontrolować nasz statek powietrzny.

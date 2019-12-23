@@ -55,9 +55,15 @@ https://www.aliexpress.com/item/723355973.html
 
 https://www.banggood.com/Aomway-5_8GHz-FPV-4-Leaf-Clover-AV-Transmission-RHCP-Antenna-1-Pair-p-961730.html
 
-13. Antena odbiorcza Aomway 5.8G 13dbi Diamond Directional Antenna
+13. Antena odbiorcza
+
+- Aomway 5.8G 13dbi Diamond Directional Antenna
 
 https://www.banggood.com/Aomway-5_8G-13db-Diamond-Directional-Antenna-SMA-RP-SMA-For-Receiver-p-1075413.html
+
+- Aomway 5.8GHz 14dBi High Gain Flat FPV Receiver Antenna RHCP
+
+https://www.banggood.com/Aomway-5_8GHz-14dBi-High-Gain-Flat-FPV-Receiver-Antenna-p-947148.html
 
 14. Gogle
 
@@ -144,6 +150,7 @@ https://allegro.pl/oferta/antena-pro-moxon-868-mhz-5-5dbi-tx-rp-sma-prodrone-810
 - nano
 
 https://www.team-blacksheep.com/products/prod:crossfire_nano_rx
+https://www.aliexpress.com/item/33056131775.html
 
 - micro
 
