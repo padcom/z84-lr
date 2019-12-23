@@ -135,18 +135,59 @@ Podobnie jak gogle, aparaturę kupuje się raz dlatego warto wydać więcej, ż
 Zdecydowanie odradzam aparaturę Turnigy 9x i jej pochodne.
 Nie obsługują oprogramowania OpenTX a jedynie jego obciętą wersję Er9x, która nie nadaje się do obsługi nadajnika TBS Crossfire.
 
+Skoro przy nadajniku jesteśmy to będę z wami brutalnie szczery.
+Testowałem nadajniki R9 i OpenLRS, które cenowo wyglądają bardzo dobrze i żaden z nich nie był tak pewną jednostką jak TBS Crossfire.
+Z tego też powodu nie będę się w tym tutorialu rozpisywał na temat konfiguracji OpenLRS czy też fleszowaniu firmwareu Flex do nadajnika R9.
+Crossfire nigdy mnie nie zawiódł a bezpieczeństwo i niezawodność w przypadku lotów na duże odległości jest absolutnie kluczową kwestią.
+Wybierając nadajnik możesz wybrać albo opcję budżetową (do której Cię gorąco zachęcam) lub wersję full wypas.
+Mam obydwie i o ile nie latam z użyciem stacji naziemnej gdzie instruuję samolot bezpośrednio ze stacji naziemnej to wersja Micro w zupełności wystarcza.
 
+Kluczową kwestią przy nadawaniu dowolnego sygnału są anteny.
+W przypadku systemu TBS Crossfire mamy do czynienia z częstotliowością 868MHz.
+Standardowo z nadajnikiem dostarczana jest antena typu dipole, która ma bardzo szeroką charakterystykę obsługiwanych częstotliwości.
+Aby w pełni wykorzystać zdolności nadawcze systemu należy zaopatrzyć się w anteny dostrojone do częstotliwości 868MHz.
+Mamy do wyboru przynajmniej 2 opcjie.
+Antena TBS Diamond, koniecznie w wersji 868MHz oraz Pro Moxon 868.
+Ta pierwsza jest praktycznie niezniszczalna.
+Utworzona jest za pomocą płytki drukowanej i nawet skacząc po niej butami nie jesteśmy jej w stanie zniszczyć.
+Wszystkie swoje loty wykonuję na tej właśnie antenie.
+Alternatywą jest antena Pro Moxon, która ma dodatkowo wzmocnienie sygnału rzędu 5dBi co pozwala na zwiększenie zasięgu sterowania modelem bez zmiany mocy nadawczej.
 
+System TBS Crossfire jest zamknięty i wymaga dedykowanych odbiorników.
+W przypadku Zetki mamy do wyboru 2 rozmiary.
+Micro pozwala na podłączenie za pomocą złącza.
+Niestety dostarczone okablowanie jest stanowczo zbyt krótkie co tak i tak zmusza nas do lutowania.
+Dlatego dobrą opcją jest wersja Nano, która nie tylko jest lżejsza ale pozwala na bezpośrednie przylutowanie tak długich przewodów jakie będą nam potrzebne.
 
+Podobnie jak w przypadku nadajnika, odbiornik również wymaga odpowiednio zestrojonej anteny aby działać jak najbardziej wydajnie.
+Ja we wszystkich moich modelach stosuję antenę MicroVEE 868MHz.
+Jest wytrzymała i spełnia znakomicie swoje zadanie.
 
+Skoro mamy już wszystkie systemy elektroniczne potrzebne na pokładzie naszego statku powietrznego przyszła pora na zasilanie.
+W tym przypadku jedynymi akumulatorami, które będą w stanie zapwenić nam odpowiednią długość lotu przy minimalnej masie są ogniwa Lion 18650 a dokładniej ogniwa Sanyo GA.
+Ich koszt oraz konieczność ręcznego przygotowania pakietu wynagrodzi nam ogromna pojemność względem wagi a co za tym idzie długość lotu.
 
+Do lutowania tych ogniw niezbędna nam będzie mocna lutownica (minimum 100W) oraz kwas lutowniczy.
+Uwaga! Kwas lutowniczy w trakcie lutowania wydziela bardzo trujące substancje, których absolutnie nie należy wdychać.
+Pomijając fakt, że opary po prostu śmierdzą i duszą to są bardziej toksyczne niż palenie papierosów.
 
+Do utworzenia pakietu potrzebne będzie nam złącze balansera.
+Można je stworzyć samemu lub kupić gotowe co zaoszczędzi nam odrobinę czasu.
+Przy wyborze złącza balansera warto zwrócić uwagę na to z czego wykonana jest izolacja przewodów.
+Zasadniczo przewody z izolacją silikonowe są bardziej wygrzymałe a przede wszystkim dają się lepiej ułożyć w ciasnym kadłubie naszej zetki.
 
+Potrzebne będą nam równiesz konektory do samego pakietu.
+Polecam w tym wypadku konektry XT60.
+Są co prawda duże ale bardzo ciężko je zapsuć - a kiedy już są złączone to przy nie planowanym przyziemieniu nie rozłączają się z byle powodu.
 
+Ważnym elementem będzie również ładowarka do pakietów.
+Większość ładowarek dla modelarzy potrafiąca ładować pakiety Lipo będzie odpowiednia.
+Ja swoje pakiety Lion ładuję tak samo jak Lion.
+Jedyną różnicą jest natężenie prądu, które w przypadku ogniw Sanyo GA ustawiam na 1A.
 
+Mamy za sobą już większość droższych elementów.
+Pozostało nam już tylko kilka drobiazgów takich jak przewody, konektory do elektroniki czy narzędzia pierwszej potrzeby.
+Pełna lista znajduje się w opisie filmu.
+Tam gdzie możliwe było znalezienie linków do produktów, których używam dodałem je aby ułatwić Ci ich poszukiwanie.
 
-
-
-
-
-
+W następnym odcinku zajmiemy się odchudzaniem naszego modelu jeszcze zanim zostanie zmontowany!
