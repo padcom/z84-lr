@@ -185,6 +185,11 @@ Większość ładowarek dla modelarzy potrafiąca ładować pakiety Lipo będzie
 Ja swoje pakiety Lion ładuję tak samo jak Lion.
 Jedyną różnicą jest natężenie prądu, które w przypadku ogniw Sanyo GA ustawiam na 1A.
 
+Potrzebne nam będą również dwa elementy drukowane na drukarce 3D.
+Pierwszym, absolutnie koniecznym jest mocowanie silnika o którym już wcześniej wspomniałem.
+Drugim jest mocowanie serwomechanizmu do obracania kamerą.
+Oba dostępne są na thingiverse.com a link do nich znajedziecie w opisie tego odcinka.
+
 Mamy za sobą już większość droższych elementów.
 Pozostało nam już tylko kilka drobiazgów takich jak przewody, konektory do elektroniki czy narzędzia pierwszej potrzeby.
 Pełna lista znajduje się w opisie filmu.
