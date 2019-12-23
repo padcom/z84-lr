@@ -1,0 +1,152 @@
+W tej części tutoriala zajmiemy się tym, z czego składać się będzie nasz statek powietrzny dalekiego zasięgu.
+
+Naszą listę zakupową zaczniemy oczywiście od samego samolotu.
+Zeta Wing-Wing dostępny jest w różnych sklepach. Dla naszych zastosowań ważne jest, żebyśmy nie kupowali wersji ready-to-fly.
+Będziemy dobierać poszczególne podzespoły tak, aby spełniały nasze wymagania co do długości lotu.
+
+Pierwszą modyfikacją, która nie jest absolutnie konieczna ale na prawdę warto ją zrobić to wymiana plastikowego wspornika skrzydeł na węglową rurkę.
+Rurka węglowa poza większą sztywnością jest jeszcze do tego o więcej niż połowę lżejsza!
+
+Silnik jest tym elementem naszego statku, który jest absolutnie krytyczny przy uzyskaniu długiego czasu lotu.
+Po przejżeniu wielu opcji wybrałem silnik AX 1806N, 2100KV ze względu na jego dostępność oraz bardzo niską wagę.
+Silnik ten wymaga specjalnego mocowania, które możemy wydrukować na drukarce 3D lub zamówić jego wykonanie online.
+
+Silnik sam z siebie nie będzie w stanie wyprodukować ciągu.
+Do tego potrzebne jest nam śmigło.
+Ponieważ będziemy napędzać nasz silnik pakietem 4S dobrą opcją jest wybranie śmigła APC 6x4.
+Jest to śmigło bardzo wytrzymałe, nie generuje zbyt dużego poboru mocy przy spokojnym locie a w sytuacji kiedy musimy przebić się przez wiatr daje dość ciągu aby pomóc nam wyjść z opersji.
+
+Śmigło na silniku montujemy za pomocą standardowego kołpaka na wał 3mm.
+Ważne przy tym jest aby kołpak był jak najżejszy dlatego też wybieramy najmniejszy z możliwych.
+Alternatywnie można zamienić kołpak śrubą aluminiową z blokadą nylonową.
+Ja nie używam takiej kombinacji ale jest to opcja, którą można wykorzystać aby zmniejszyć wagę modelu o dodatkowe 2 gramy.
+
+Jak pewnie już wiecie silnik AX 1806N jest silnikiem trójfazowym.
+Aby wprawić go w ruch potrzebne jest urządzenie, które nazywamy regulatorem obrotów silnika (z angielska ESC).
+Nam potrzebny jest taki regulator, który będzie jak najlżejszy, będzie w stanie obsłużyć silnik do 15 amper oraz nie będzie miał regulatora napięcia 5V dla elektroniki.
+Regulator napięcia elektroniki zapewniać nam będzie kontroler lotu.
+Dlatego też wybrałem regulator DYS XSD 20A lub DYS XDC 20A.
+Ma on odpowiedni zapas mocy aby nie spłotnąć w trakcie startu lub lotu na maksymalnych obrotach a jednak jest na tyle lekki, żeby nie stanowił zbędnego balastu.
+
+Silnik i regulator obrotów można połączyć bezpośrednio lutując kabelki z silnika do regulatora.
+Osobiście nie polecam takiego rozwiązania ponieważ aby wykonać takie połączenie trzeba operować lutownicą w pobliżu pianki EPP, która jest bardzo podatna na wysokie temperatury.
+Dlatego do połączenia użyłem konektorów bananowych 2mm.
+Są one na tyle lekkie, że nie stanowią zbyt wielkiego obciążenia a pozwalają wygodnie podłączyć silnik a w razie jego wymiany również rozłączyć bez użycia lutownicy.
+
+Przejdźmy teraz do serwomechanizmów kontrolujących nasze sterolotki.
+Mamy tutaj do wyboru przynajmniej dwie opcje.
+Opcja, powiedzmy, standardowa to orginalne fejki TowerPro MG90S.
+Są to serwa z metalowymi zembatkami dające bardzo przyzwoity moment jednocześnie pozostając bardzo długo sprawnymi.
+Jeśli chcielibyśmy odchudzić nasz model możemy zastosować bardzo dobre serwa firmy Hitec, model HS-55.
+Są one sporo droższe, mają nylonowe zembatki i są mniej więcej 3g lżejsze na sztuce co daje w rezultacie około 6g zysku na wadze modelu.
+Niestety po 3-4 miesiącach latania jedno z tych serw ma u mnie bardzo zauważalne luzy co mocno przekłada się na stabilność lotu.
+Dlatego polecam użycie serwomechanizmów z metalowymi zembatkami - są po prostu znacznie bardziej wytrzymałe.
+
+Do transmisji wideo użyłem nadajnika Eachine TX801.
+Ma on możliwość regulacji mocy od 0.01W w trybie pit-stop aż do 600mW.
+Jeżeli zdecydujesz się na inny nadajnik ważnym jest aby miał faktyczną moc nadawczą na poziomie minimum 450mW.
+Pamiętaj przy tym, że nadajniki mają różną moc nadawczą w zależności od kanału, na któ©ym nadają.
+Dodatkowo warto zakupić taki nadajnik, który pozwala na odlutowanie złącza SMA i przylutowanie anteny bezpośrednio do nadajnika.
+Zaoszczędzimy w ten sposób minimum 12g co przy tak prostej modyfikacji nie jest bez znaczenia.
+
+Kamera jaką polecam Ci kupić do tego zestawu to Eachine 1000TVL - wersję, którą można zasilać napięciami aż do 20V.
+Jej tańsza odpowiedniczka zasilana jedynie napięciem 5V jest zbyt podatna na to, że podłączymy ją pod złe napięcie a to skutkuje natychmiastowym uszkodzeniem kamery.
+Kamera ta jest dodatkowo o tyle ciekawa, że kształt jej obudowy daje możliwość bardzo łatwego przyklejenia jej do serwomechanizmu w celu obracania jej w trakcie lotu.
+
+Serwomechanizm służący do obracania kamerą powinien mieć znacznie szerszy zasięg niż standardowe serwo.
+Takie serwo to na przykład MD260.
+Jest małe, ma metalowe zembatki i świetnie sprawdza się jako serwo do obracania kamery.
+
+Skoro już jesteśmy przy części nadającej wideo należy wspomnieć o antenach nadawczych.
+Przekopałem całą masę różnych anten i tylko jedne z nich sprawdziły się w pełni na dystansie 20 kilometrów.
+Są to Aomway 4 leaf clover RHCP.
+Są one skonstruowane ze sztywnego przewodu koncenrtycznego, który nie wygina się w trakcie lotu a jednocześnie pozwala na zespojenie bezpośrednio z nadajnikiem.
+Anteny te jeszcze nigdy mnie nie zawiodły.
+
+Z drugiej strony antena odbiorcza musi mieć przyzwoite wzmocnienie.
+Robiąc rozeznanie, którą antenę wybrać oblądałem całą masę filmów produkowanych przez internautów i tylko dwie były w stanie zrobić dokładnie to czego od nich potrzebowałem.
+Obie są antenami z firmy Aomway.
+Jedna, której używam na codzień to antena Dual Diamond. Jest lekka, ma bardzo fajny wygląd ale przede wszystkim wzmocnienie sygnału na takim poziomie jaki jest wymagany przy tak dalekim locie.
+Drugą anteną jest Aomway 005, antena typu patch z zyskiem na poziomie 14dBi.
+Gdyby nie to, że jest sporo cięższa od 009 używałbym jej codziennie!
+
+Skoro już jesteśmy przy odbiorze sygnału wideo trzeba powiedzieć parę słów o wyborze odbiornika i goglach.
+Z moich doświadczeń wynika, że na rynku są tylko dwie propozycje warte uwagi przy lotach na tak dalekie odległości.
+Pierwsza z nich to opcja niesamowicie budżetowa.
+Są to gogle Eachine EV800.
+Odbiornik wbudowany w te gogle jest tak niesamowicie czuły, że spokojnie przebija marki takie jak TrueD czy Achiless.
+Jedyną wadą tych gogli jest brak możliwości przełączenia się w tryb 4:3, w któ©ym nadaje kamera Eachine 1000TVL.
+Na szczęście dostępna jest rozszeżona wersja tych gogli o system diversity, która posiada taką opcję zmiany aspektu wyświetlanego obrazu.
+Są to gogle EV800D.
+Dodatkowo posiadają wbudowaną nagrywarkę filmów i system diversity, który do naszych zastosowań jest kompletnie zbędny.
+Drugą opcją, znacznie, znacznie droższą ale też o wiele bardziej komfortową do trzymania na głowie jest użycie gogli FatShark.
+Ja używam na przemiennie moje EV800 i FatShark Sominator HD.
+Aktualnie w sprzedaży jest wersja FatShark Dominator HDO2 i jeśli zdecydujesz się na jej zakup na pewno nie będziesz żałował.
+Problem w przypadku gogli FatShar polega na tym, że trzeba do nich dokupić odbiornik.
+Z przetestowanych przeze mnie odbiorników wbudowywanych w gogle sprawdził się jedynie ImmersionRC Rapid Fire.
+Jest on zdecydowanie najdroższy z dostępnych na rynku ale jest fenomenalny.
+Bije na głowę całą konkurencję.
+Jeśli tylko możesz sobie pozwolić na zakup gogli FatShar plus odbiornik Rapid Fire to na pewno nie będziesz żałował.
+Niezależnie od tego, które z wymienionych gogli wybierzesz będziesz spokojnie w stanie uzyskać odległość 20km zakładając, że będziesz poruszał się odpowiednio wysoko.
+
+Sercem naszej zetki, które tak na prawdę będzie decydowało o obrotach silnika oraz wychyleniach sterów jest kontroler lotu.
+Do niedawna jedyną opcją były kontrolery lotu używane w quadkopterach.
+Wyposażone w odpowiednią płytkę dystrybucji i filtrowania napięcia sprawdzały się na prawdę dobrze ale były na prawde problematyczne przy próbie podłączenia do komputera.
+W przypadku quadkopterów złącze umiejscowione poziomo ma jak najbardziej sens.
+Niestety w samolotach wymaga to zrobienia dodatkowej dziury z boku co nie jest ani łatwe ani pożądane.
+Na szczęście w połowie 2018 roku firma Matek zaczęła produkować kontrolery lotu przeznaczone dla latających skrzydeł.
+Kontrolery te charakteryzują się zintegrowaną płytką dystrybucji napięcia, specjalizowanym układem wyprowadzeń złącz serwomechanizmóœ oraz przede wszystkim pionowym złączem USB.
+Dzisiaj na rynku jest masa kontrolerów, które są wzorowane na tych, które orginalnie wymyśliła firma Matek.
+Ja osobiście cenię firmę Matek za jakość wykonania i po prostu nie inwestuję już w podróbki dlatego nie będę o nich mówił w tym tutorialu.
+Do wyboru mamy przynajmniej 5 różnych modeli.
+Ja skupię się na dwóch z nich.
+Matek F411 WING oraz F405 WING.
+Pierwszy z nich jest ultra małym i ultra lekkim kontrolerem, który zapewnia wszystko - oprócz filtrowania napięcia zasilającego system nadawania wideo.
+Można temu zaradzić instalując filtr samemu pomiędzy kontrolerem, kamerą i nadajnikiem wideo ale ja wole rozwiązania kompleksowe, które minimalizują ilość okablowania.
+Z tego też powodu wybrałem Matek F405 WING.
+
+Kontroler lotu do pozycjonowania oraz wyznaczania takich parametrów jak prędkość względem ziemi oraz kierunek lotu wymaga odbiornika GPS.
+Na rynku jest cała masa lepszych i gorszych odbiorników.
+Ten, który ja użyłem to Beitian BN-220.
+Jest mały, lekki i na prawdę szybki przy uzyskiwaniu połączenia z przynajmniej 8 satelitami.
+Drugą opcją, którą chętnie bym polecił jest Beitian BN-880.
+Jest to odbiornik GPS wyposażony dodatkowo w kompas.
+W tym miejscu uwaga: kompas jest kompletnie zbędny w naszej konfiguracji.
+BN-880 jest większy i cięższy. Jeśli taki odbiornik GPS akurat posiadasz możesz go użyć ale gorąco polecam BN-220 bo spełnia swoje zadanie fenomenalnie nie dokłądając zbyt dużo wagi.
+
+Do zamocowania kontrolera lotu użyjemy dystansów nylonowych wklejanych bezpośrednio w piankę modelu.
+Jeśli użyjesz kontrolera F411-WING lub F411-WSE to potrzebne Ci będą dystanse M2.
+Do kontrolerów F405 WING potrzebne Ci będą dystanse M3.
+
+Przejdźmy teraz do aparatury nadawczej, za pomocą które sterować będziemy modelem.
+Ja jestem szczęśliwym posiadaczem aparatury Taranis 9XD plus.
+Od kilku miesięcy na rynku dostępna jest również aparatura Jumper T16, którą wybrałbym gdybym nie miał już Taranisa.
+Ważnych jest kilka aspektów, na które trzeba zwrócić uwagę przy zakupie aparatury.
+Pierwszym i podstawowym z nich jest możliwość montażu zewnętrznych modułów nadawczych w formacie JR.
+Jest to konieczne do montażu systemu nadawania dalekiego zasięgu takiego jak TBS Crossfire czy R9.
+Drugim jest obsługa oprogramowania OpenTX jeśli zdecydujesz się na nadajnik TBS Crossfire Micro.
+Bez OpenTX w wersji minimum 2.2 nie będziesz w stanie działać.
+Dodatkowym bonusem będą gimbale działające w oparciu o efekt Hall'a, które są nie tylko bardziej precyzyjne ale też znacznie bardziej wygrzymałe niż zwykłe gimbale oporowe.
+Wybór aparatury jest kwestią bardzo osobistą i nie jestem Ci w stanie jednoznacznie doradzić co wybrać.
+Jeśli stać Cię na Taranisa 9XD plus to jest to na pewno opcja, która Cię nie zawiedzie.
+Jeśli chcesz odrobinkę zaoszczędzić to kup Jumpera T16.
+Tańsze aparatury to po prostu wyrzucone pieniądze.
+Podobnie jak gogle, aparaturę kupuje się raz dlatego warto wydać więcej, żeby nie kupować jej dwa razy.
+Zdecydowanie odradzam aparaturę Turnigy 9x i jej pochodne.
+Nie obsługują oprogramowania OpenTX a jedynie jego obciętą wersję Er9x, która nie nadaje się do obsługi nadajnika TBS Crossfire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
