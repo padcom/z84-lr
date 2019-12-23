@@ -9,15 +9,14 @@
 9. Montaż serwomechanizmów
 10. Sklejanie modelu
 11. Wstępna konfiguracja kontrolera lotu Matek F405 WING
-12. Wstępna konfiguracja kontrolera lotu Matek F411 WING
-13. Montaż kontrolera lotu z regulatorem obrotów i odbiornikiem GPS
-14. Przygotowanie pakietu Li-ion 4S z ogniw Sanyo GA 18650 3450mAh 10A
-15. Wyważanie modelu
-16. Dziewiczy lot pod kontrolą wzroku (line of sight)
-17. System FPV: gogle, anteny, wzmocnienie sygnału, zależność widoczności od wysokości
-18. Tuning kontrolera lotu
-19. Wybór miejsca do wykonania lotu na 20km
-20. Testy wydajnościowe, ustalenie maksymalnej długości lotu
-21. Testy odległościowe, ustalenie maksymalnej odległości lotu na wysokości 120m
-22. Lot 20km
-23. Montaż systemu obracania kamerą
+12. Montaż kontrolera lotu z regulatorem obrotów i odbiornikiem GPS
+13. Przygotowanie pakietu Li-ion 4S z ogniw Sanyo GA 18650 3450mAh 10A
+14. Wyważanie modelu
+15. Dziewiczy lot pod kontrolą wzroku (line of sight)
+16. System FPV: gogle, anteny, wzmocnienie sygnału, zależność widoczności od wysokości
+17. Tuning kontrolera lotu
+18. Wybór miejsca do wykonania lotu na 20km
+19. Testy wydajnościowe, ustalenie maksymalnej długości lotu
+20. Testy odległościowe, ustalenie maksymalnej odległości lotu na wysokości 120m
+21. Lot 20km
+22. Montaż systemu obracania kamerą
