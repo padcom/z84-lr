@@ -1,0 +1,67 @@
+Budowę naszej zetki rozpoczniemy od jej odchudzenia.
+Największym wrogiem długich lotów jest waga dlatego też każdy gram jest ważny.
+Istnieje kilka prostych zabiegów, które pozwolą nam zrzucić kilka zbędnych gramów.
+
+Pierwszą rzeczą, którą będziemy zmieniać jest wspornik.
+Orginalny pręt wykonany z plastiku charakteryzuje się tym, że jest bardzo elastyczny i ciężki.
+Waży ponad 10 gramów.
+Dla porównania rurka węglowa o wymiarze 4 milimetrów i grubości ścianki 2 milimetry waży jedynie 6.3 grama a jest o wiele sztywniejsza.
+Można również zastosować rurkę węglową o wymiarze 4 milimetrów i grubości ścianki 1 milimetr, która jest jeszcze lżejsza o ponad 2 gramy.
+Taką właśnie rurkę zastosujemy w naszej zetce.
+Sztywność takiej rurki dalej przewyższa orginalny plastikowy pręt co wpłynie korzystnie na to jak nasza zetka będzie się zachowywała w powietrzu.
+
+Następną rzeczą, którą należy zrobić to zdjąć dosłownie wszystkie naklejki.
+Te standardowo zamocowane na zetce ważą ponad 4g.
+To mniej więcej taki sam balast jak różnica w wadze prętu plastikowego względem rurki węglowej.
+
+Dodatkowo można pokusić się o przycięcie stateczników pionowych.
+Nie jest to wymagane ale nadaje naszej zetce orginalnego wyglądu a dodatkowo usuwa bardzo cienkie końce, które łatwo ulegają deformacji.
+
+Kolejną rzeczą, której się powinniśmy pozbyć to mocowanie silnika.
+Orginalne mocowanie waży 2.6 grama i jest wykonane z aluminium.
+Niestety orginalne mocowanie jest przygotowane do przywiercenia 3 śrób rozmieszczonych co 120 stopni.
+Zetka ma mocowanie silnika na cztery śruby rozmieszczone co 90 stopni.
+Dlatego gorąco polecam wydrukowane mocowanie silnika, które znaleźć możemy na stronie thingiverse.com.
+Mocowanie to nie jest super wytrzymałe ale spokojnie wystarcza na kilka bardzo długich lotów.
+Jak długo wytrzyma mocowanie jest głównie zależne od tego jak dobrze wyważony jest silnik i śmigło więc warto poświęcić trochę czasu aby te elementy pracowały jak najspokojniej.
+Silnik należy nie tylko przykręcić ale również wkleić w mocowanie silnika za pomocą kleju cyjanoakrylowego i należy to zrobić zdecydowanie przed jego montarzem w samolocie.
+Materiał ABS nie jest tak wytrzymały jak aluminium więc mocowanie silnika wyłącznie za pomocą wkrętów inbusowych jest proszeniem się o problemy.
+Za to mocowanie z ABS jest o 1 gram lżejsze niż mocowanie aluminiowe!
+Alternatywnie można nawiercić 3 otwory w aluminiowym mocowaniu w celu wygodnego zamocowania go w zetce.
+
+Teraz czas zastanowić się nad serwami.
+Orginalnie producent proponuje nam wstawienie 9-go gramowych serw nylonowych.
+Z mojego doświadczenia wynika, że pomimo tego, że budujemy model do dalekich lotów chęć polatania bardziej agresywnie jest zbyt duża, żeby się jej przeciwstawić.
+W końcu mamy do dyspozycji model, który ma więcej ciągu niż waży a to kusi do wykonywania lotów akrobatycznych.
+Najlepszymi serwomechanizmami jakich używałem do tej pory są Hitec HS-55.
+Są niesamowicie precyzyjne, lekkie (ważą jedynie 8.2 grama!) i szybkie.
+Niestety z wagą i zastosowanymi materiałami przychodzi ich bardzo niewielka wytrzymałość.
+W moim poprzednim modelu jeden serwomechanizm uległ uszkodzeniu już po tygodniu.
+Nie jest to uszkodzenie, które powoduje, że nie da się latać ale kiedy jeden płat furgocze na wietrze a drugi trzyma się jakby był przyklejony to stabilność lotu znacznie spada.
+Alternatywą dla HS-55 są dość dobre serwomechanizmy Tower Pro SG-92R z węglowymi zembatkami.
+Jeśli uda Ci się takie serwomechanizmy zakupić to polecam. Są lżejsze niż MG90S, których ja użyję w trakcie tutoriala a jednak oferują i precyzję i siłę potrzebną do okiełznania zetki.
+
+Przejdźmy teraz do jednego z największych zysków na wadze czyli do nadajnika wideo.
+Orginalnie nadajnik Eachine TX-801 wyposażony jest w gniazdo SMA a co za tym idzie wymaga anteny, która będzie miała wtyczkę SMA.
+Są to elementy wykonane z jakiegoś stopu przypominającego miedź lub mosiądz i są bardzo ciężkie.
+Na szczęście ta modyfikacja jest dość prosta.
+Wystarczy odlutować złącze SMA w nadajniku, odciąć wtyczkę w antenie i zlutować antenę na stałe z nadajnikiem.
+Zyskujemy w ten sposób prawie 7 gramów a skracając przewód anteny o nieco ponad 2 centymetry możemy odchucić nasz system nadawania wideo o prawie 9 gramów.
+Być może wpadłeś na pomysł aby jeszcze dodatkowo zyskać ponad 2 gramy i zamiast anteny koniczynki użyć anteny typu dipol.
+Z moich eksperymentów wynika, że te anteny są bardzo kruche, nie trzymają pionu w trakcie lotu a co za tym idzie wymagają dodatkowych wsporników, np. z wykałaczek.
+Antena typu koniczynka sprawuje się na tyle dobrze, że dalsze jej odchudzanie i zmiana na antenę typu dipol kompletnie się nie opłaca.
+
+Następnym elementem, który będzie nam potrzebny jest odbiornik do sterowania modelem.
+Jak już wcześniej wspomniałem ze względu na konieczność stabilnego linku kontrolnego na dużych odległościach do tego samolotu wybrałem system TBS Crossfire.
+Mamy do wyboru 2 rozmiary odbiorników.
+Micro i Nano.
+Do tej pory używałem odbiorników Micro, ponieważ takie miałem dostępne aczkolwiek do tego nowego buildu użyję odbiornika Nano bo jest lżejszy od poprzednika o ponad połowę.
+Naturalnie użycie orginalnej anteny nie jest polecane.
+Jest ona zbyt wiotka i przy pierwszych problemach będzie wymagała prostowania.
+Również w powietrzu zachowuje się bardziej jak chorągiewka na wietrze niż porządna antena.
+Dlatego polecam TBS MicroVee strojoną fabrycznie do częstotliwości 868MHz.
+Należy nie zapominać o zabezpieczeniu nadajnika koszulką termokurczliwą aby zabezpieczyć elektronikę przed wilgocią a antenę przed rozłączeniem.
+Do podłączenia odbiornika do kontrolera lotu proponuję wykorzystać żyły z przewodu RJ45, czyli popularnej skrętki.
+Są one dostatecznie lekkie i cienkie więc pozwalają na łatwe umieszczenie ich w specjalnie do tego celu przygotowanych rowkach w skrzydle.
+
+To już wszystko co proponuję zrobić aby odchudzić naszą zetkę w celu uzyskania jak najdłuższego czasu lotu.
