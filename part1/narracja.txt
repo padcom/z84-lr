@@ -1,6 +1,7 @@
 Witam was bardzo serdecznie w serii tutoriali, w których pokaże wam jak zbudować zdalnie sterowany model dalekiego zasięgu.
 Model dalekiego zasięgu (z angielskiego long-range) może oznaczać dla różnych ludzi różne rzeczy.
 Dla mnie oznacza to około 20km od miejsca z którego startuję.
+
 Wyznaczyłem sobie taką granicę latem 2017 kiedy osiągnąłem 8km za pomocą C1 Chaser sterowanego systemem OpenLRS.
 OpenLRS to fantastyczny system. Jego największą zaletą i jednocześnie największą wadą jest częstotliwość na której działa.
 Częstotliwości 434MHz (około) jest używana w przemyśle na bardzo różne sposoby.
@@ -42,5 +43,16 @@ Bezpieczeństwo ponad wszystko.
 Niezależnie od tego jakiego systemu użyjecie do nadawania sygnału kontrolnego czy nadawania i odbioru wideo z samolotu główną cechą jaką powinniście się kierować jest bezpieczeństwo.
 Jest to jednym z głównych powodów dla którego jako platformę wybrałem Z84 ponieważ jest to mały i lekki samolot, który w kontakcie z dorosłą osobą przy prędkości 40km/h nie jest śmiercionośny.
 Samoloty o wadze dwóch lub trzech kilogramów z reguły porusza się znacznie szybciej a co za tym idzie stanowi znacznie większe zagrożenie dla życia i zdrowia innych.
+
+W opisie znajdziecie link do lotu przeprowadzonego modelem, który widzicie na ekranie.
+
+https://www.youtube.com/watch?v=wPtBRwxskSs
+
+Wybaczcie jakość samego nagrania.
+Nagrywarka z gogli FatShark niestety nie grzeszy niestety jakością.
+Natomiast w trakcie lotu widok był całkowicie akceptowalny na dwudziestu kilometrach.
+
+Model jest już dość wysłużony, zaliczył wiele przygód (tych chcianych i tych nie za bardzo pomyślnych) i czas aby odszedł na zasłużoną emeryturę.
+Dlatego też zdecydowałem się zbudować drugi taki sam model i pokazać wam proces jego konstrukcji.
 
 W następnym odcinku przejdziemy sobie przez listę rzeczy, które trzba będzie mieć, żeby przejść przez ten tutorial i na końcu cieszyć się tymi samymi osiągami, którymi ja cieszę się od roku.
